@@ -4,7 +4,7 @@ A simple React app that fetches and displays a list of users from a public JSON 
 
 ## Screenshot
 
-<img src="screenshot/Screenshot%202025-05-20%20at%2011.26.20%E2%80%AFPM.png" alt="Screenshot">
+<img src="screenshot/Screenshot%202025-05-20%20at%2011.26.20%E2%80%AFPM.png" alt="Screenshot" height="400">
 
 
 ## 🚀 Features
