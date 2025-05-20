@@ -25,14 +25,6 @@ A simple React app that fetches and displays a list of users from a public JSON 
 
 - JavaScript Fetch API – For loading JSON from the web
 
-## 🧪 Live Demo
-
-You can see a live version of this app here:  
-
-👉 [Live Demo (coming soon)](https://your-app-url.com)
-
-> 💡 Note: This is optional. You can skip this until you deploy your app.
-
 ## 🛠 How to Run Locally
 
 ### 1. Clone the repository
