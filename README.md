@@ -29,12 +29,16 @@ A simple React app that fetches and displays a list of users from a public JSON 
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/user-list-app.git
+git clone https://github.com/imandaf/React-User-List-Viewer-App.git
+
 ### 2. Install dependencies
+
 cd user-list-app
 
 npm install
+
 ### 3. Start the development server
+
 npm start
 
 Open http://localhost:3000 in your browser to view it.
